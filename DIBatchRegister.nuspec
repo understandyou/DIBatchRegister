@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.1</version>
+    <title>DIBatchRegister</title>
+    <authors>zys</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
+    <iconUrl>http://icon_url_here_or_delete_this_line/</iconUrl>
+    <description>对原生DI扩展批量扫描注册,示例：
+	services.Register(new List() {"ConsoleApp2"});//程序集名称，必须要有默认空参构造
+	services.Register("","",""....);//重载
+	</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>Tag1 Tag2</tags>
+  </metadata>
+</package>

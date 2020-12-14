@@ -1,0 +1,11 @@
+E:\devData\vs\test\DIBatchRegister\bin\Debug\netcoreapp3.1\DIBatchRegister.deps.json
+E:\devData\vs\test\DIBatchRegister\bin\Debug\netcoreapp3.1\DIBatchRegister.dll
+E:\devData\vs\test\DIBatchRegister\bin\Debug\netcoreapp3.1\DIBatchRegister.pdb
+E:\devData\vs\test\DIBatchRegister\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\devData\vs\test\DIBatchRegister\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\devData\vs\test\DIBatchRegister\obj\Debug\netcoreapp3.1\DIBatchRegister.AssemblyInfoInputs.cache
+E:\devData\vs\test\DIBatchRegister\obj\Debug\netcoreapp3.1\DIBatchRegister.AssemblyInfo.cs
+E:\devData\vs\test\DIBatchRegister\obj\Debug\netcoreapp3.1\DIBatchRegister.csproj.CoreCompileInputs.cache
+E:\devData\vs\test\DIBatchRegister\obj\Debug\netcoreapp3.1\DIBatchRegister.csproj.CopyComplete
+E:\devData\vs\test\DIBatchRegister\obj\Debug\netcoreapp3.1\DIBatchRegister.dll
+E:\devData\vs\test\DIBatchRegister\obj\Debug\netcoreapp3.1\DIBatchRegister.pdb
